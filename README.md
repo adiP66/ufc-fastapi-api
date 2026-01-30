@@ -23,3 +23,5 @@ Python version used for the autogluon mdoel is 3.12.12 (altogether different pro
 
 ROUTES
 <img width="1392" height="1225" alt="image" src="https://github.com/user-attachments/assets/faccb520-7ce6-4bfa-ba4e-99935902b793" />
+
+<img width="1348" height="1126" alt="image" src="https://github.com/user-attachments/assets/f4bd6afb-13a1-4ac8-9b28-f0da70b97de1" />
