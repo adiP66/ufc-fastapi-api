@@ -25,3 +25,6 @@ ROUTES
 <img width="1392" height="1225" alt="image" src="https://github.com/user-attachments/assets/faccb520-7ce6-4bfa-ba4e-99935902b793" />
 
 <img width="1348" height="1126" alt="image" src="https://github.com/user-attachments/assets/f4bd6afb-13a1-4ac8-9b28-f0da70b97de1" />
+
+In a traditional way:
+<img width="2557" height="1344" alt="image" src="https://github.com/user-attachments/assets/6f8dfc6f-2797-4ea7-8b76-0c9c34b347f8" />
