@@ -6,16 +6,16 @@ This project covers
 - Data Scraping
 - ML feature engineering
 
-Anyone can use this api in thier project directly to fetch data ranging from ufc 2 (1998) to the latest event as the dataset is constantly being updated.
+Anyone can use this api in their project directly to fetch data ranging from ufc 2 (1998) to the latest event as the dataset is constantly being updated.
 Cheers.
 
 Tech Stack 
-API - FASTAPI
-ML - Autogluon
-Data - Pandas, numpy
-scraping - requests, bs4
-matching - thefuzz, rapidfuzz
-pipeline - custom feature engineering
+- API - FASTAPI
+- ML - Autogluon
+- Data - Pandas, numpy
+- scraping - requests, bs4
+- matching - thefuzz, rapidfuzz
+- pipeline - custom feature engineering
 
 ## IMPORTANT NOTE 
 One thing to note is that the model was trained on a linux environment and THEREFORE the api/model can only be run on a linux environment, if you are on Windows I strongly suggest you use WSL.
