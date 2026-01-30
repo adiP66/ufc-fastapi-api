@@ -1,0 +1,6 @@
+.venv
+pandas-testing.ipynb
+full_model.py
+pyproject.toml
+uv.lock
+.__pycache__
