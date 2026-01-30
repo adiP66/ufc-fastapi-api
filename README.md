@@ -18,8 +18,8 @@ matching - thefuzz, rapidfuzz
 pipeline - custom feature engineering
 
 ## IMPORTANT NOTE 
-One thing to note is that the model was trained on a linux environment and THEREFORE the api/model can only be run on a linux environment, if you are on Windows I strongly suggest you use 
-Python version used is 3.12.12 for autogluon made model (altogether different production) , even though I have used 3.12.5 for this uploaded project.
+One thing to note is that the model was trained on a linux environment and THEREFORE the api/model can only be run on a linux environment, if you are on Windows I strongly suggest you use WSL.
+Python version used for the autogluon mdoel is 3.12.12 (altogether different production) , even though I have used 3.12.5 for this uploaded project.
 
 ROUTES
 <img width="1392" height="1225" alt="image" src="https://github.com/user-attachments/assets/faccb520-7ce6-4bfa-ba4e-99935902b793" />
